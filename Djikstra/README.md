@@ -1,5 +1,6 @@
 ## 1. Input
 
+``` 
 int main()
 {
 	/* Let us create the example graph discussed above */
@@ -17,9 +18,11 @@ int main()
 
 	return 0;
 }
+``` 
 
 ## 2. Output
 
+``` 
 Vertex Distance from Source
 0 		 0
 1 		 4
@@ -30,3 +33,4 @@ Vertex Distance from Source
 6 		 9
 7 		 8
 8 		 14
+``` 
